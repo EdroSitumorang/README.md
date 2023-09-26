@@ -12,7 +12,7 @@ Helloo, I'm Edro Situmorang 🤗🤗
 
 📱  Fun Fact: like playing the same song all the time
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelljonk&theme=radical)
+
 
 ### Connect with me:
 
